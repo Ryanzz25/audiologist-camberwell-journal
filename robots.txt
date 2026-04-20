@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ryanzz25.github.io/audiologist-camberwell-journal/sitemap.xml
